@@ -1,6 +1,6 @@
 Welcome to my personal home on GitHub. 
 
-#Find my lab's code repositories at the [Lew Lab GitHub][1].
+## Find my lab's *code repositories* at the [Lew Lab GitHub][1].
 
 To learn more, jump to [my lab's homepage][2], read an [overview of our research][3], or view our [publication list][4].
 
